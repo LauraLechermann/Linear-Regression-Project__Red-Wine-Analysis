@@ -1,4 +1,4 @@
-# Linear Regression Project (Module 2, Sprint 3) - Red Wine Analysis
+# Linear Regression Project - Red Wine Analysis
 
 ![image](https://github.com/user-attachments/assets/dab599b8-ad0d-4d41-90fc-66cfcc13f85c)
 
