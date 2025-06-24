@@ -133,7 +133,7 @@ Follow these steps to set up the project environment and install the required de
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TuringCollegeSubmissions/lleche-DS.v3.2.3.4.git
+    git clone https://github.com/LauraLechermann/Linear-Regression-Project__Red-Wine-Analysis.git
     ```
 2. Navigate to the project directories:
     ```bash
